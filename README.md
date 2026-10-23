@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,electron,html,css,python,lua,git,github,vscode,linux&theme=dark" alt="Stack" height="48">
 </p>
 
-I write mostly JavaScript and Lua. I like small tools that solve one concrete problem, and clean interfaces that are pleasant to work in.
+I'm a vibe coder. I mostly write JavaScript and Lua, mostly with Claude. I describe what I want, try it, fix what breaks, and repeat until it works. Most of my projects are small tools I actually use, and a few games.
 
 ### Stats
 
